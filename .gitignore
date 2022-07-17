@@ -1,0 +1,5 @@
+
+.DS_Store
+src/helloworld
+*.plist
+src/helloworld.dSYM/Contents/Resources/DWARF/helloworld
